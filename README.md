@@ -9,6 +9,6 @@ packages
 
 
 
-## 有能力的 帮我配个 polybar呗
+## Polybar install yep
 	问题 解决 现在 不需要 i3blocks 此 packages no install
 	
