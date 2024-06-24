@@ -5,3 +5,7 @@
 packages 
 	
 	fonts-awesome feh i3 i3blocks i3lock-color kitty picom
+
+
+
+有能力的 帮我配个 polybar呗
